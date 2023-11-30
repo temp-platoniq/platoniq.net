@@ -1,7 +1,7 @@
 ---
 slug: lpa
 title: "Laura Pareja "
-type: author
+type: colaborator
 image:
   path: /media/members/aitwo.co_zmtpwji.jpg
   alt: soy un salon
