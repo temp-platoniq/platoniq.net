@@ -27,6 +27,7 @@ categories:
 members:
   - pjs
   - mpo
+  - lpa
 collaborators:
   - naz
   - naz2
