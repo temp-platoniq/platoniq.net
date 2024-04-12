@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: 6df1bd3fac377146a24935acbadcb985c26fe6e8
-  branch: develop
+  revision: 8b4be6ca051b57cf5702a0096a81447da7cff683
+  branch: fix_services
   specs:
     jekyll-theme-platoniq.net (0.0.1)
       jekyll (~> 4.2)
