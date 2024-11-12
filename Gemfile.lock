@@ -9,8 +9,8 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq.net.git
-  revision: ae80c9f4e2c8bb658d6f65695daf18fb73d1fff2
-  branch: develop
+  revision: 64564d9d23ce651a9c9eaaaa301e12a9cabf78e1
+  branch: upgrade/bootstrap
   specs:
     jekyll-theme-platoniq.net (0.0.1)
       jekyll (~> 4.2)
