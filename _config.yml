@@ -24,18 +24,26 @@ collections:
   pages:
     output: true
     custom_permalink_placeholders: ["locale","slug"]
+    editor:
+      preview: false
     permalink: /:locale/:slug/
   projects:
     output: true
     custom_permalink_placeholders: ["locale","slug"]
+    editor:
+      preview: false
     permalink: /:locale/projects/:slug/
   categories:
     output: true
     custom_permalink_placeholders: ["locale","slug"]
+    editor:
+      preview: false
     permalink: /:locale/categories/:slug/
   services:
     output: true
     custom_permalink_placeholders: ["locale", "slug"]
+    editor:
+      preview: false
     permalink: /:locale/services/:slug/
   states:
     output: false
@@ -48,6 +56,8 @@ collections:
   offers:
     output: true
     custom_permalink_placeholders: ["locale","slug"]
+    editor:
+      preview: false
     permalink: /:locale/offers/:slug/
  
 defaults:
